@@ -1,4 +1,4 @@
-# HypeSquad Changer
+# Discord HypeSquad Changer
 😎You can change your [Hypesquad](https://discord.com/hypesquad) in 4 seconds now !
 ## Installation
 
